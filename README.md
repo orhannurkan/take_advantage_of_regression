@@ -116,7 +116,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## How went our project?
 
-This has been a great experience for us all. We've learned new tools such as VSCode Live Share to make our remote collaboration easier and we combine the AGILE methodology and the pommodoro technique so we could be at our top level of efficiency in our work.
+This has been a great experience for us all. We've learned new tools such as VSCode Live Share to make our remote collaboration easier and we combined the AGILE methodology and the pommodoro technique so we could be at our top level of efficiency in our work.
 
 
 
