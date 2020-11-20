@@ -69,9 +69,9 @@ Because of group changes, we had different datasets available in order to comple
 
 The most appropriate dataset should have:
 
-                              *. the least texts and Nans possible
-                              *. no blanks 
-                              *. structured data. 
+* the least texts and Nans possible
+* no blanks 
+* structured data. 
 
 We therefore agreed to choose the dataset of Orhan's previous group.
 
