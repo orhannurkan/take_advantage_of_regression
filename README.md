@@ -1,18 +1,3 @@
-# take_advantage_of_regression
-Becode project to test our skills about regression
-
-
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -37,7 +22,8 @@ Becode project to test our skills about regression
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">take_advantage_of_regression</h3>
+  <h2 align="center">Becode project to test our skills about regression</h2>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
