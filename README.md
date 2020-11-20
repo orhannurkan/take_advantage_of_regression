@@ -56,26 +56,31 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-In our learning path at Becode we had multiple group project focusing on real estate in Belgium. First we had to scrape some websites to find data and make a solid dataset out of it. Then we had to "merge" all the other groups dataset and work on it. We've essentially done some major data cleaning on it and then use what we've learned about data visualization and make a presentation out of it. We had a week to to get familiar with all types of regression and after we were asked to test our knowledge to predict the best we can the price of houses on the Belgian market with the dataset of our previous mission.
+In our learning path at Becode we had multiple group projects focusing on real estate in Belgium. First we had to scrape some websites to find data and make a solid dataset. Then we had to "merge" all the other groups dataset and work on them. We have essentially done some major data cleaning and then used what we learned about data visualization to make a presentation. We had a week to get familiar with all types of regression, after  which we were asked to test our knowledge to predict house prices on the Belgian market to the best of our abilities using the dataset of our previous mission.
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Because of the groups changing between the different missions we had different dataset available in order to complete the mission. So we choose the most appropriate one to start the project in the most efficient way possible.
+Because of group changes, we had different datasets available in order to complete the mission. Consequently, we chose the most appropriate one to efficiently start the machine learning project.
 
 ### Choosing the dataset
 
-The most appropriate dataset had to have less texts, blanks and NANs possible and a structured data. So we agreed to choose the dataset of Orhan's previous group.
+The most appropriate dataset should have:
+                              1. the least texts and Nans possible
+                              1. no blanks 
+                              1. structured data. 
+
+We therefore agreed to choose the dataset of Orhan's previous group.
 
 
-### Evaluate what we have to do
+### Set Work Objectives
 
-First thing first we have to choose the important features in order to make a proper cleaning and not waste our time on columns that we won't use.
-Secondly we have to transform every text in each feature's column into numbers in order to make the model work.
-Then we have to format the data to train the model.
-And finally we have to test different model out and look after the most accurate one.
+To Start with, we chose the important features in order to make a proper cleaning and not waste our time on unused columns.
+Secondly we transformed every text in each feature's column into numbers in order to make the model work.
+Then we formated the data to train the model.
+And finally we tested the different models out and identified the most accurate one.
 
 
 
@@ -83,19 +88,19 @@ And finally we have to test different model out and look after the most accurate
 <!-- USAGE EXAMPLES -->
 ## Data cleaning
 
-So the target is the price and we have to determine what are the features that affect mostly our target.
+As our target was the price, we determined what the features that affected our target the most were.
 The features that we've chosen are the following:
 
 
 
-We've replaced the text with numbers in all the column. We've made sure that there are no duplicates nor NANs.
+We replaced the text with numbers in all the columns. We made sure that there are no duplicates or NANs.
 
 
 <!-- ROADMAP -->
 ## Data formatting
 
 Now that the dataset is ready we can divide the `X` and the `y`.
-The `X` correspond to our features and the `y` is the price.
+The `X` corresponds to our features and the `y` is the price.
 Then we have to divide our dataset for the training session.
 
 
