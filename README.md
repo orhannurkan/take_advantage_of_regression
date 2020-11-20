@@ -22,8 +22,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">take_advantage_of_regression</h3>
-  <h2 align="center">Becode project to test our skills about regression</h2>
+  <h1 align="center">Take advantage of regression</h1>
+  <h3 align="center">Becode project to test our skills about regression</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
