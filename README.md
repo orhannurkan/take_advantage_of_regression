@@ -94,8 +94,8 @@ We've replaced the text with numbers in all the column. We've made sure that the
 <!-- ROADMAP -->
 ## Data formatting
 
-Now that the dataset is ready we can divide the X and the y.
-The X correspond to our features and the y is the price.
+Now that the dataset is ready we can divide the `X` and the `y`.
+The `X` correspond to our features and the `y` is the price.
 Then we have to divide our dataset for the training session.
 
 
