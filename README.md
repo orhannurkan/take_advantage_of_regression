@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/adamflasse/take_advantage_of_regression">
-    <img src="assets/BecodeLogo.png" alt="Logo" width="80" height="80">
+    <img src="assets/BecodeLogo.png" alt="Logo" width="240" height="180">
   </a>
 
   <h1 align="center">Take advantage of regression</h1>
