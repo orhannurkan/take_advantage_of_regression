@@ -40,13 +40,13 @@
 * [About the Project](#about-the-project)
   
 * [Getting Started](#getting-started)
-  * [Choose the dataset](#prerequisites)
-  * [Evaluate what we have to do](#installation)
-* [Data cleaning](#usage)
-* [Data formatting](#roadmap)
-* [Selected models](#contributing)
-* [Evaluation](#license)
-* [How went our project?](#contact)
+  * [Choosing the dataset](#choosing-the-dataset)
+  * [Evaluate what we have to do](#evaluate-what-we-have-to-do)
+* [Data cleaning](#data-cleaning)
+* [Data formatting](#data-formatting)
+* [Selected models](#selected-models)
+* [Evaluation](#evaluation)
+* [How went our project?](#how-went-our-project?)
 
 
 
