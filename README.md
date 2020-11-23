@@ -41,7 +41,7 @@
   
 * [Getting Started](#getting-started)
   * [Choosing the dataset](#choosing-the-dataset)
-  * [Evaluate what we have to do](#evaluate-what-we-have-to-do)
+  * [Set Work Objectives](#set-work-objectives)
 * [Data cleaning](#data-cleaning)
 * [Data formatting](#data-formatting)
 * [Selected models](#selected-models)
