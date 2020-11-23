@@ -5,8 +5,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/adamflasse/take_advantage_of_regression">
+    <img src="assets/BecodeLogo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">Take advantage of regression</h1>
