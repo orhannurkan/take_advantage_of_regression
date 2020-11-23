@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 In our learning path at Becode we had multiple group projects focusing on real estate in Belgium. First we had to scrape some websites to find data and make a solid dataset. Then we had to "merge" all the other groups dataset and work on them. We have essentially done some major data cleaning and then used what we learned about data visualization to make a presentation. We had a week to get familiar with all types of regression, after  which we were asked to test our knowledge to predict house prices on the Belgian market to the best of our abilities using the dataset of our previous mission.
 
@@ -100,9 +100,8 @@ There are multiple models that we've tested such as Gradient Boosting Regressor,
 
 
 <!-- LICENSE -->
-## License
+## Evaluation
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
