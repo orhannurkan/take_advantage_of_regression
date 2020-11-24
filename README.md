@@ -105,8 +105,8 @@ There are multiple models that we've tested such as Gradient Boosting Regressor,
 | Model       |        Score        | 
 | :--------- | :---------------: |
 | Polynomial Regression | 0,72 |
-| Random Forest | 0,72 |
 | Extra Trees Regressor | 0,77 |
+| Random Forest | 0,8 |
 | Gradient Boosting Regressor | 0,84 |
 
 
