@@ -77,7 +77,7 @@ And finally we tested the different models out and identified the most accurate 
 ## Data cleaning
 
 As our target was the price, we determined what the features that affected our target the most were.
-The features that we've chosen are the following:
+It turns out that is more relevant to keep the most of it because the models all performed better with more features than with the chosen ones.
 
 
 
